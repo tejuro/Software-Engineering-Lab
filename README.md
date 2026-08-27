@@ -1,5 +1,4 @@
 # LAB-1-PES1UG25CS851
-Yes bro 😄 Since you have **only one PDF**, we can keep it short and simple exactly like your example.
 
 # Community Solar Credit Allocation Manager
 
