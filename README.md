@@ -46,3 +46,6 @@ This lab helps in understanding:
 * Actors and use cases
 * Use Case Diagrams
 * Use Case Flows
+  
+# LAB 2 Jira 
+This project was developed as part of Software Engineering Lab 2, using Agile methodology and Jira for backlog creation, Epic and User Story management, story-point estimation, sprint planning, and progress tracking through the Sprint Board and Burndown Chart. The project focuses on managing community solar generation and allocating solar credits among residents.
